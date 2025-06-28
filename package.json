@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "Test API to manage messages for my github pages site",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
